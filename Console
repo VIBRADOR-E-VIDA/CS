@@ -25,3 +25,10 @@ sv_grenade_trajectory 1
 sv_showimpacts(0/1/2)
 
 showtriggers_toggle
+
+
+________________________________________________________
+
+cl_hud_color 10
+
+cl_righthand 0 
