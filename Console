@@ -2,4 +2,26 @@ Test
 
 Sv_cheats_0
 
-Noclip
+Noclip  - bind "Shift" "noclip"
+
+Clear 
+
+cl_righthand 0 
+
+Impulse 101
+
+mp_buy_anywhere 1
+
+mp_maxrounds 999
+
+mp_buytime 9999
+
+mp_roundtime_defuse 60
+
+sv_infinite_ammo (0/1/2)
+
+sv_grenade_trajectory 1
+
+sv_showimpacts(0/1/2)
+
+showtriggers_toggle
