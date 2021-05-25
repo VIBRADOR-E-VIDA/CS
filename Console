@@ -6,6 +6,7 @@ mp_freezetime 1
 
 Noclip  - bind "Shift" "noclip"
  
+bot_dont_shoot 1
 
 Impulse 101
 
