@@ -2,6 +2,8 @@ Test
 
 Sv_cheats_0
 
+mp_freezetime 1
+
 Noclip  - bind "Shift" "noclip"
 
 Clear 
