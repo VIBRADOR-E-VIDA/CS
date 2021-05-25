@@ -5,10 +5,7 @@ Sv_cheats_0
 mp_freezetime 1
 
 Noclip  - bind "Shift" "noclip"
-
-Clear 
-
-cl_righthand 0 
+ 
 
 Impulse 101
 
@@ -28,7 +25,7 @@ sv_showimpacts(0/1/2)
 
 showtriggers_toggle
 
-
+Clear
 ________________________________________________________
 
 cl_hud_color 10
