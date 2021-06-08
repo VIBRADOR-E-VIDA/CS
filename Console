@@ -32,3 +32,5 @@ ________________________________________________________
 cl_hud_color 10
 
 cl_righthand 0 
+
+alias "+jumpthrow" "+jump;-attack"; alias "-jumpthrow" "-jump"; bind alt "+jumpthrow"
